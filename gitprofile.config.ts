@@ -113,18 +113,18 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'HR Data Master',
+      position: 'Data Analyst',
+      from: 'September 2023',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://soloist.ai/hr-data-master',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'HR Reporting',
+      position: 'Data Analyst',
+      from: 'September 2023',
+      to: 'Present',
+      companyLink: 'https://soloist.ai/hr-reporting',
     },
   ],
   certifications: [
