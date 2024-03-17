@@ -68,7 +68,7 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Ariful Alam',
+    title: 'Portfolio of Chris MUBA',
     description: '',
     imageURL: '',
   },
@@ -251,7 +251,7 @@ const CONFIG = {
       class="text-primary" href="https://github.com/arifszn/gitprofile"
       target="_blank"
       rel="noreferrer"
-    >GitProfile</a> and ❤️`,
+    >GitProfile</a> and ❤️ by Chris MUBA`,
 
   enablePWA: true,
 };
