@@ -69,7 +69,7 @@ const CONFIG = {
   },
   seo: {
     title: 'Portfolio of Chris MUBA',
-    description: '',
+    description: '⚡ Senior Software Engineer | Open Source Enthusiast | PHP | Node.js | React ⚡',
     imageURL: '',
   },
   social: {
