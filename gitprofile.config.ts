@@ -152,11 +152,11 @@ const CONFIG = {
       companyLink: 'https://soloist.ai/hr-data-master',
     },
     {
-      company: 'HR Reporting',
-      position: 'Data Analyst',
-      from: 'September 2023',
-      to: 'Present',
-      companyLink: 'https://soloist.ai/hr-reporting',
+      company: 'GIP FTLV de Bourgogne',
+      position: 'Coordinateur Apprentissage',
+      from: 'Juin 2021',
+      to: 'Août 2023',
+      companyLink: 'https://www.bourgogne-greta.fr/gip-ftlv-de-bourgogne/',
     },
   ],
   certifications: [
@@ -177,8 +177,8 @@ const CONFIG = {
     {
       institution: 'Université de Bourgogne',
       degree: 'Master Sciences',
-      from: '2011',
-      to: '2010',
+      from: '2010',
+      to: '2011',
     },
   ],
   publications: [
