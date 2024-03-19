@@ -161,24 +161,24 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
+      name: '',
+      body: '',
+      year: '',
+      link: '',
     },
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'IAE de Dijon',
+      degree: 'Master Gestion',
+      from: '2017',
+      to: '2018',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Université de Bourgogne',
+      degree: 'Master Sciences',
+      from: '2011',
+      to: '2010',
     },
   ],
   publications: [
